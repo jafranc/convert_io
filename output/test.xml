@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<Problem>
+	<Constitutive>
+		<BlackOilFluid name="fluid" np="3" pname="{ oil,gas,water }" rhos_sc="{ 800.907131537, 0.856234902739, 1020.344 }" cmp_molar="{ 0.12, 0.025, 0.018 }" table_lookup="{ pvto_bo.txt,pvtg_norv_bo.txt,pvtw_bo.txt }">
+		</BlackOilFluid>
+	</Constitutive>
+</Problem>
